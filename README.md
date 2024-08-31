@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sandhya Fitness(Gym App)**
 
-- 🌱 I’m currently learning **ExpressJs MongoDB and GASP**
+- 🌱 I’m currently learning **ExpressJs MongoDB and GSAP**
 
 - 🤝 I’m looking for help with **Backend Development**
 
