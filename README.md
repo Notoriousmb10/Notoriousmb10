@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1o0hVJJWGQzzJsewAyBTZ5xg1So6mFnFf/view?usp=drive_link](https://drive.google.com/file/d/1o0hVJJWGQzzJsewAyBTZ5xg1So6mFnFf/view?usp=drive_link)
 
-- ⚡ Fun fact **I am a complete Stubborn person**
+- ⚡ **Stubborn Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
