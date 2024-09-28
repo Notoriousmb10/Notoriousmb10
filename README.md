@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notoriousmb10" alt="notoriousmb10" /></a> </p>
 
-- 🔭 I’m currently working on **Sandhya Fitness(Gym App)**
+🔭 I’m currently working on Sandhya Fitness (Gym Website), building a Turf Booking System with AI for my final year project, and a personal Portfolio Website.
 
-- 🌱 I’m currently learning **ExpressJs MongoDB and GSAP**
+🌱 I’m currently learning Express.js, MongoDB, GSAP, and React.js. I’ve been diving deeper into Node.js, exploring cybersecurity, and working on Python and Machine Learning for future AI projects.
 
-- 🤝 I’m looking for help with **Backend Development**
+💻 I have experience with front-end development, particularly with CSS and TailwindCSS, and I’m continuously improving my skills in responsive design.
+
+🤝 I’m looking for help with Backend Development, collaborating on Node.js/Express.js projects, and integrating AI/ML into my web apps.
 
 - 📫 How to reach me **www.instagram.com/yash_mb10**
 
