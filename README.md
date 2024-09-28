@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notoriousmb10" alt="notoriousmb10" /></a> </p>
 
-🔭 I’m currently working on Sandhya Fitness (Gym Website), building a Turf Booking System with AI for my final year project, and a personal Portfolio Website.
+🔭 I’m currently working on Sandhya Fitness (Gym Website), building a Turf Booking System with AI.
 
 🌱 I’m currently learning Express.js, MongoDB, GSAP, and React.js. I’ve been diving deeper into Node.js, exploring cybersecurity, and working on Python and Machine Learning for future AI projects.
 
