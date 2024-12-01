@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notoriousmb10" alt="notoriousmb10" /></a> </p>
 
-🔭 I’m currently working on Fitness (Gym Application) and building a Turf Booking System with AI.
-
-🌱 I’m currently learning NextJs, Express.js, MongoDB, and React.js. I’ve been diving deeper into Node.js, exploring cybersecurity, and working on Python and Machine Learning for future AI projects.
-
-💻 I have experience with front-end development, particularly with CSS, TailwindCSS, and Material-UI (MUI), and I’m continuously improving my skills in responsive design.
+🔭 HI
 
 - 📫 How to reach me **www.instagram.com/yash_mb10**
 
