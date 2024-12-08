@@ -2,6 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notoriousmb10&label=Profile%20views&color=0e75b6&style=flat" alt="notoriousmb10" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=notoriousmb10&label=Profile%20views&color=0e75b6&style=flat" alt="notoriousmb10](https://camo.githubusercontent.com/3bf63649c5d81be21c73f3c1daefd48d47cfd25dcc1130eee0d8e945a48b1e7a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d617279616e3035303332303034266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notoriousmb10" alt="notoriousmb10" /></a> </p>
 
