@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I’m Yash! A full-stack developer with a passion for creating efficient, scalable applications. I specialize in MERN stack, Next.js, and always look for innovative ways to solve real-world problems. When I'm not coding, you’ll find me learning new technologies, working on fitness goals, or exploring creative design. I believe in building solutions that not only work but make an impact.
 
+![Coding GIF](https://media.giphy.com/media/mFdJjYKpSII6JLeiDz/giphy.gif?cid=790b76115xan6fiukx176mbvekpryswycaq9l077zcshg8l0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash_mb10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashbhingarde) 
