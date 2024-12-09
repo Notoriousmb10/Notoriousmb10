@@ -6,7 +6,7 @@
       <p>Hi, I’m Yash! A full-stack developer with a passion for creating efficient, scalable applications. I specialize in MERN stack, Next.js, and always look for innovative ways to solve real-world problems. When I'm not coding, you’ll find me learning new technologies, working on fitness goals, or exploring creative design. I believe in building solutions that not only work but make an impact.</p>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/mFdJjYKpSII6JLeiDz/giphy.gif?cid=790b76115xan6fiukx176mbvekpryswycaq9l077zcshg8l0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Coding GIF">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47z494dyrskakxae4degsfeviuszyg2acepcn9u08n&ep=v1_gifs_search&rid=giphy.gif&ct=gF">
     </td>
   </tr>
 </table>
