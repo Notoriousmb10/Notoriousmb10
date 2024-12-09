@@ -19,6 +19,6 @@ Hi, I’m Yash! A full-stack developer with a passion for creating efficient, sc
 ![](https://github-contributor-stats.vercel.app/api?username=notoriousmb10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=notoriousmb10&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=notoriousmb10&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
