@@ -18,6 +18,7 @@
 
 
 ## 🌐 Socials:
+[![](https://komarev.com/ghpvc/?username=notoriousmb10&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash_mb10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashbhingarde) 
 
 # 💻 Tech Stack:
@@ -34,6 +35,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=notoriousmb10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=notoriousmb10&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
