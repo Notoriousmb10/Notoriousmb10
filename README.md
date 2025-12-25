@@ -1,6 +1,5 @@
 # Hi, I'm Yash 👋  
-**I build gloriously useless apps the world never knew it needed. 🚀**  
-And when I’m not doing that, I’m probably locked in with LeetCode problems that question my life choices. 🧩🔥
+**I am building applications since 2024, I am a tech enthusiast who loves to build application that at least solve a small problem, Apart from that I love reading and learning Application Security as well. 🧩
 
 🧠 Problem solving my way through the techverse on [LeetCode](https://www.leetcode.com/u/notoriousmb10)  
 ✍️ Sharing thoughts and learning journeys on [Medium](https://medium.com/@yash_mb10)
